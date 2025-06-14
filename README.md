@@ -19,10 +19,6 @@ A simple, user-friendly **Password Manager** built with **React**. It allows use
 - UUID (for unique IDs)
 - LocalStorage API (for persistent storage)
 
-## 📸 Screenshots
-
-> Add screenshots here (optional, if you want to visually show how your app looks)
-
 ## 📂 Folder Structure
 
 ```
